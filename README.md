@@ -6,3 +6,5 @@ This repository holds all my homework assignments for the classes I took during 
 * Data and Databases: psql and postgres - constructing queries and setting up databases
 * Algorithms: Building algorithms, scikit learn, Machine Learning, Statistics
 * D3: Building (interactive) charts with the javascript library
+
+Project-based data-driven work can be found in the [playfair repository](https://github.com/gcgruen/playfair-projects)
