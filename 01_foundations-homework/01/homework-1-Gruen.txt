@@ -1,0 +1,31 @@
+0. Download the file with
+Command: curl https://www.osha.gov/dep/fatcat/FatalitiesFY13.csv > working_fatalities.csv
+# contrary to what it says in the command reference, this only works without the brackets [ ] around the URL on my windows computer
+Formatted file in a xls to take a look at it first; this way I saw that each line starts with 2013 (relevant for 1)
+
+1. How many accidents were there in 2013?
+Answer: There were 106 accidents in 2013.
+Commands:
+grep 2013 workplace_fatalities.csv | wc -l
+grep 2012 workplace_fatalities.csv | wc -l
+--> manually calculating the difference between the results of first (345) and second (239) command
+
+2. What companies were involved in laser accidents?
+Answer: The only company involved in laser accidents was Hagel Metal Fabrication Inc., East Peoria, IL.
+Command: grep laser workplace_fatalities.csv
+
+3. What command would I use to show me ONLY the first line of the file?
+Answer/command: head -n 1 [workplace_fatalities.csv]
+--> leads to an error with me: "head: cannot open ‘[workplace_fatalities.csv]’ for reading: No such file or directory"; haven't yet found a proper solution to that via Google
+
+4. How many accidents involved forklifts?
+Answer: 5 accidents involved forklifts.
+Command: grep forklift workplace_fatalities.csv | wc -l
+
+5. How many accidents were on Christmas Eve?
+Answer: 3 accidents happened on Christmas Eve
+Command: grep 12/24/201 workplace_fatalities.csv | wc -l
+
+6. I need a text file of accidents that involve trees!
+You'll find it in the zip-folder, it's called accidents_involving_trees.txt
+Command: grep tree workplace_fatalities.csv > accidents_involving_trees.txt

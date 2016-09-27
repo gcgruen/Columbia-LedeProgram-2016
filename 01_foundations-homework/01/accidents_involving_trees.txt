@@ -1,0 +1,28 @@
+FY 2013,10/06/2012,9/27/2012,"Davey Tree Livermore,CA 9455",1 Worker cutting down trees was struck and killed by a tree branch.
+FY 2013,10/06/2012,9/28/2012,"Trimming Land Company,Inc. Riverside,CA 90280",Worker trimming trees was struck and killed by tree limb.
+FY 2013,10/13/2012,10/09/2012,"Gorilla Mikes LLC,Cincinati,OH 45243",Employee died from being struck on head by large tree limb.
+FY 2013,10/20/2012,10/15/2012,"WA State Department of Natural Resources, Springdale, WA 99173",Worker died after being electocuted while removing a tree from a 115-kV power line.
+FY 2013,11/03/2012,10/11/2012,"Max Montgomery dba Montgomery Saw Mill, Franklinville, NC 27316",Worker was struck and killed by a 30-foot tree being cut down.
+FY 2013,11/03/2012,10/31/2012,"WD Olsen Tree Care, Annapolis, MD 21409",Worker helping to clear fallen trees after hurricane was killed when a tree fell on him.
+FY 2013,11/10/2012,10/29/2012,"Easton Volunteer Fire Company No. 1 Inc.,Easton, CT 06612",Fire fighter died after being struck by a falling tree while responding to a house fire.
+FY 2013,11/17/2012,11/6/2012,"Patriot Tree Service, Saint James, NY 11780",Employee died after being struck by a tree limb while trimming a tree.
+FY 2013,11/17/2012,11/6/2012,"RG Landscaping & Tree Service, East Brunswick, NJ 08816",Worker was struck and killed by a tree during tree trimming operations.
+FY 2013,11/17/2012,11/15/2012,"Kett Engineering Corporation, California City, CA 93505",Worker died after a tree fell on him.
+FY 2013,11/24/2012,11/14/2012,"Roscoe Stewart dba R. Stewart Tree Service, Durham, NC 27703",Worker died after falling 30 feet while cutting down a tree.
+FY 2013,11/24/2012,11/16/2012,"Jose Ochoa-Rodriguez, Wheaton, MD 20904",Worker died after falling 50 feet from a tree.
+FY 2013,12/08/2012,11/9/2012,"J. Goode Environmental Services, Nacogdoches, TX 75964",Employee died after falling from a tree during tree cutting operations.
+FY 2013,12/08/2012,11/21/2012,"Monster Tree Service, South Hampton, PA 18954",Employee died after being struck by a tree during tree removal operations.
+FY 2013,12/15/2012,12/6/2012,"Steven Jesser Farms, Fresno, CA 93727",Worker was struck by a falling tree.
+FY 2013,12/15/2012,12/12/2012,"S & T Tree Services, Windsor, PA 17366",Worker died when a tree fell onto his legs during tree cutting operations.
+FY 2013,12/15/2012,12/13/2012,"K&S Logging LLC, Gladwin, MI 48624",Worker was fatally struck by a tree limb.
+FY 2013,12/29/2012,11/28/2012,"GardenState Tree & Lawn LLC, Colts Neck, NJ 07722",Employee was crushed to death when a tree he was clearing fell onto him.
+FY 2013,12/29/2012,12/14/2012,"American Forestry and Firewood LLC, Gloverville, NY 12078",Worker was killed after being struck by a tree during felling operations.
+FY 2013,12/29/2012,12/24/2012,"Ken Plante's Tree Removal, Haverhill, MA 01830",Worker died after a large tree limb fell and crushed him.
+FY 2013,1/12/2013,1/5/2013,"Ben's Gardening Services, Torrance, CA 90501",Worker electrocuted while trimming pine tree branches at 25 feet when his pruning shears contacted an overhead electrical cable.
+FY 2013,1/12/2013,1/7/2013,"Lopez Landscaping, Greenwich, CT 06830",Worker killed when struck by a fallen tree trunk.
+FY 2013,2/23/2013,2/14/2013,"Wade C. Bowler, Aylett, VA 23009",Worker struck and killed by an excavator arm while trimming trees.
+FY 2013,2/23/2013,2/15/2013,"Coba Landscaping & Construction, Belleville, NJ 07109",Employee struck and killed by falling tree limb while trimming trees.
+FY 2013,2/23/2013,2/21/2013,"Best Logging, Rock Castle, WV 25245",Employee killed by a falling tree during tree felling operations.
+FY 2013,3/2/2013,2/21/2013,"Donald L. Shirey Lumber Company Inc, Rimersburg, PA 16248",Worker struck and killed by falling tree.
+FY 2013,3/2/2013,2/25/2013,"Pete Gould & Sons Inc., Ellenboro, WV 26346",Employee struck and killed by falling tree.
+FY 2013,3/2/2013,2/27/2013,"Asplundh Tree Expert Co., Charlotte, NC  28217",Worker struck and killed by falling tree.

@@ -1,0 +1,99 @@
+#Grade: 14/15
+Gianna-Carina Gruen
+# 2016-05-25
+# Homework 2
+
+#Make a list of the following numbers: 22, 90, 0, -10, 3, 22, and 48
+numbers = [22, 90, 0, -10, 3, 22, 48]
+
+# 0)Display the number of elements in the list
+print(len(numbers))
+
+# 1) Display the 4th element of this list.
+print(numbers[3])
+
+# 2) Display the sum of the 2nd and 4th element of the list.
+print(numbers[1]+numbers[3])
+
+# 3) Display the 2nd-largest value in the list.
+sorted_numbers = sorted(numbers)
+#print(sorted(numbers))
+print(sorted_numbers[5])
+
+# 4) Display the last element of the original unsorted list
+print(numbers[6])
+
+# 5) For each number, display a number:
+#if your original number is less than 10, multiply it by thirty
+#If it's also even, add six.
+#If it's greater than 50 subtract ten.
+#If it's not negative ten, subtract one.
+
+# fifth approach - tracing backwards.
+for number in numbers:
+    if number > 50:
+        if number != -10:
+            print (int(number) - 10 - 1 )
+        else:
+            print (int(number) - 10 )
+    elif number < 10:
+        if number % 2 == 0 and number != -10:
+            print (int(number) * 30 + 6 - 1 )
+        elif number % 2 == 0:
+            print (int(number) * 30 + 6 )
+        elif number != -10:
+            print (int(number) * 30 - 1 )
+        else:
+            print (int(number) * 30 )
+    else:
+        print (int(number) - 1 )
+#TA-STEPHAN: Nice job!
+
+# 6) Sum the result of each of the numbers divided by two.
+# http://stackoverflow.com/questions/8244915/how-do-you-divide-each-element-in-a-list-by-an-int
+myInt = 2
+divided_numbers_list = [number / myInt for number in numbers]
+# http://stackoverflow.com/questions/11344827/summing-elements-in-a-list
+print(sum(divided_numbers_list))
+
+#7) Sometimes dictionaries are used to describe multiple aspects of a single object.
+# Like, say, a movie. Define a dictionary called movie that works
+#with the following code.
+#print "My favorite movie is", movie['title'], "which was released in", movie['year'], "and was directed by", movie['director']
+movie = {'title': "Inception", 'year': 2010, 'director': "Christopher Nolan"}
+print ("My favorite movie is", movie['title'], "which was released in", movie['year'], "and was directed by", movie['director'])
+#8) Add entries to the movie dictionary for budget and revenue (you'll use
+#code like movie['budget'] = 1000), and print out the difference between the two.
+movie = {'title': "Inception", 'year': 2010, 'director': "Christopher Nolan", 'budget': 160, 'revenue': 825 }
+difference = movie['revenue'] - movie['budget']
+print("The difference between revenue and budget was", difference, "million")
+#9) If the movie cost more to make than it made in theaters,
+#print "It was a flop". If the film's revenue was more than five times the
+#amount it cost to make, print "That was a good investment."
+
+#TA-STEPHAN: Should only say 'That was a good investment' if it was five times the budget
+
+if difference > 0:
+    print ("That was a good investment.")
+else:
+    print ("It was a flop.")
+
+#10) Sometimes dictionaries are used to describe the same aspects of many
+#different objects. Make ONE dictionary that describes the population of
+#the boroughs of NYC. Manhattan has 1.6 million residents, Brooklyn has 2.6m,
+#Bronx has 1.4m, Queens has 2.3m and Staten Island has 470,000.
+#(Tip: keeping it all in either millions or thousands is a good idea)
+
+population_nyc = {'Manhattan': 1.6, 'Brooklyn': 2.6, 'Bronx': 1.4, 'Queens': 2.3, 'Staten Island': 0.47}
+
+#12) Display the population of Brooklyn.
+print("The population of Brooklyn is", population_nyc['Brooklyn'], "million.")
+
+#13) Display the combined population of all five boroughs.
+# http://stackoverflow.com/questions/4880960/sum-of-all-values-in-a-python-dict
+total = sum(population_nyc.values())
+print("The total population in all five boroughs of New York City is", total, "million.")
+
+#14) Display what percent of NYC's population lives in Manhattan.
+Manhattan_share = population_nyc['Manhattan']/ int(total) * 100
+print("Approximately", Manhattan_share, "percent of people in NYC live in Manhattan.")
