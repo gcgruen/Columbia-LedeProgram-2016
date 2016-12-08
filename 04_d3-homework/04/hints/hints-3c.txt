@@ -1,0 +1,1 @@
+There are EXACTLY two lines that are different than Chart 3b. And I already changed one of them for you! That's d3.select("#chart-3c") instead of d3.select("#chart-3b"), in case you were wondering.

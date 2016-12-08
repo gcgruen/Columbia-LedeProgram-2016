@@ -1,0 +1,1 @@
+You should be an expert at small multiples now: just make the radius smaller, use an xPositionScale and pay attention to d3.select(this) and what 'd' is.
