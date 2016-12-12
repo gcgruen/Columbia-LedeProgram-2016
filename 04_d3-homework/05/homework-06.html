@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- The browser can use non-English-language characters (...kind of) -->
+      <meta charset="utf-8">
+      <style>
+      body { 
+        font-family: "Helvetica Neue"; 
+        font-weight: 300; 
+      }
+      svg { background: #f9f9f9; }
+
+      #chart-1 {
+        position: relative;
+        width: 960px;
+      }
+
+      #country-display {
+        position: absolute;
+        top: 300px;
+        right: 100px;
+      }
+
+      .America {
+        fill: red;
+      }
+
+      #africa-button {
+        background-color: #4daf4a;
+      }
+      
+      #europe-button {
+        background-color: #377eb8;
+      }
+
+      #namerica-button {
+        background-color: #ffff33;
+      }
+
+      #samerica-button {
+        background-color: #ff7f00;
+      }
+
+      #oceania-button {
+        background-color: #984ea3;
+      }
+
+      #asia-button {
+        background-color: #e41a1c;
+      }
+
+      circle {
+        stroke-width: 0.25;
+        stroke: black;
+      }
+      </style>
+  </head>
+  <body>
+    <h1>Homework 6: Interactivity</h1>
+
+    <p>There are <strong>multiple hints</strong> for each step inside of the 'hints' directory.</p>
+
+    <h2>It's a scatterplot!</h2>
+    <p>GDP on the x axis, life expectancy on the y axis. Each circle is a country.</p>
+
+    <div id="chart-1">
+    <button id="reset-button">Reset</button>
+    <button id="namerica-button">North America</button>
+    <button id="samerica-button">South America</button>
+    <button id="europe-button">Europe</button>
+    <button id="africa-button">Africa</button>
+    <button id="asia-button">Asia</button>
+    <button id="oceania-button">Oceania</button>
+    </br>
+    <button id="tiny-countries">Small countries</button>
+    <button id="big-countries">No tiny countries</button>
+      <div id="country-display">
+        <strong>Currently selected:</strong>
+        <span id="selected">Nothing</span>
+        </br>
+        <span id="population"></span>
+        </br>
+        <span id="life-expectancy"></span>
+        </br>
+        <span id="gdp-pc"></span>
+      </div>
+    </div>
+
+    <p>1. Make a circle change color when you hover over it.</p>
+    <p>2. When you hover over a marker, make the text after "Currently selected" fill up with the country's name.</p>
+    <p>3. Hide the "Currently selected" box when there's nothing being selected. It's HTML and not SVG, so instead of <strong>.attr</strong> you'll need to use a similar method called <strong>.style</strong>. You'll be setting the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display">display property</a> - under "Syntax" there's a whole list of what you could set it to.</p>
+    <p>4. Color the circles by continent. Use one of <a href="http://colorbrewer2.org/#type=qualitative&scheme=Accent&n=6">these color scales</a>. Make sure your hover still works!</p>
+    <p>5. It's kind of hard to click things, size the circles based on the population of their country (be sure to use the right kind of scale for circle radii!)</p>
+    <p>6. Some of the circles are now hidden since larger ones are on top of smaller ones! Make it so that smaller circles are always on top.</p>
+    <p>7. Add 6 buttons, one for each continent in the data set (Asia, Europe, N. America, S. America, Africa, Oceania). When I click one of those buttons, dim out the circles not in that country.</p>
+    <p>8. Add a button called called "Small countries" that only shows countries with a population less than 10 million. Make a button called "No tiny countries" that hides all countries with population less than 5 million</p>
+    <p>9. Right now the axes are 0-100 years and 0-$100,000 per capita GDP. Change it be based on the data once you've read in in (just the tops - I think 0 is a good base for GDP and life expectancy).</p>
+    <p>10. When I click those continent buttons I want to zoom in on the elements from that continent.</p>
+    <p>BONUS! Add a title and axis labels.</p>
+    <p>BONUS! Add more information in the "Currently selected" hover box.</p>
+
+    <!-- This is D3, our graphing library -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+
+    <!-- Now we include our actual visualization -->
+      <script src="chart-1.js"></script>
+  </body>
+</html>
