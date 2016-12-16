@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- The browser can use non-English-language characters (...kind of) -->
+      <meta charset="utf-8">
+      <style>
+      * {
+        font-family: "Helvetica Neue";
+      }
+      p, text {
+        font-size: 0.85em;
+      }
+
+      svg {
+        background: white;
+      }
+      </style>
+  </head>
+  <body>
+    <h1>Homework 9, Part 1: Bubbles charts and force diagrams</h1>
+    
+    <p><strong>billionaires_complete.csv</strong> is a nice long list of billionaires. Let's make some charts with it!</p>
+
+    <p><span style="background: #fffc88;">You will probably find <a href="https://www.youtube.com/playlist?list=PLewNEVDy7gq1qWBGS2BSOqND6c3DLt2CV">these video tutorials</a> useful in addition to the completed classwork up on CourseWorks.</span></p>
+
+    <p>Feel free to resize the svg elements! They're kind of small and square.</span></p>
+
+    <p>Ask questions in <strong>#storytelling</strong>, as always.</p>
+
+    <h2>Chart 1: A bubble chart</h2>
+    <p>Make a bubble chart of every billionaire. Size each circle by 'net' - their net worth.</p>
+    <p>Create and use images for at least 10 billionaires. You can just steal them from Google.</h2>
+    <div id="chart-1"></div>
+
+    <h2>Chart 2: Interacting</h2>
+
+    <p>Make a bubble chart of every billionaire. Size each circle by 'net' - their net worth. Color code by industry - you'll also be including the image'd circles from Chart 1, so they'll need outlines in the given color.</p>
+    <p>Add a series of buttons to allow you to split the bubbles into groupings - by <strong>gender</strong> and by <strong>industry</strong> would be nice - and a button to return them all to the middle. You can space out the gender one by hand, but use a scale for industry. Each industry should include a label.</p>
+
+    <p><strong>Extra credit:</strong> add tooltips to the circles</p>
+
+    <button id="gender">Sort by gender</button>
+    <button id="industry">Sort by industry</button>
+    <button id="reset">Reset</button>
+    <div id="chart-2"></div>
+
+    <h2>Chart 3: Mixing it up</h2>
+    <p>Make a scatterplot of every billionaire. Age on the x axis, net worth on the y axis. Color code by industry. Include a button that, when clicked, turns the graphic into a force diagram clustered around countries. When the button is clicked, the axes should disappear and labels for each country should appear instead. Also include a button to revert back to the scatterplot.</p>
+
+
+    <button id="countries">Sort by countries</button>
+    <button id="reverse">Back to scatterplot</button>
+    <div id="chart-3"></div>
+
+    <h3>Once you've completed all of these, go into the CSS up top and stop the SVG elements from having a grey background.</h3>
+
+    <!-- This is D3, our graphing library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+
+        <!-- 
+      This is d3-tip, which will give us d3 tooltips
+      https://github.com/Caged/d3-tip
+    -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+      <link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css">
+
+    <!-- Now we include our actual visualization -->
+    <script src="chart-1.js"></script>
+    <script src="chart-2.js"></script>
+    <script src="chart-3.js"></script>
+  </body>
+</html>

@@ -1,0 +1,201 @@
+age,children,cleaned_name,gender,industry,name,place,source,status,cash,key,last,last_rel,net,private,public,rank,ytd,ytd_rel
+61.0,2,alwaleed-al-saud,Male,Diversified,Alwaleed Al Saud,Saudi Arabia,Self-made,Divorced,1.41,alwaleed-al-saud,126.49,0.69,18.42,44.75,53.84,39,-6495.25,-26.07
+54.0,2,abby-johnson,Female,Finance,AbbyJohnson,United States,Inherited,Married,1.01,abby-johnson,-50.95,-0.64,7.86,98.99,0.0,157,-161.04,-2.01
+84.0,7,donald-bren,Male,Real Estate,Donald Bren,United States,Self-made,Married,5.05,donald-bren,0.0,0.0,16.56,94.95,0.0,47,25.0,0.15
+80.0,5,silvio-berlusconi,Male,Media,Silvio Berlusconi,Italy,Self-made,Married,47.01,silvio-berlusconi,22.19,0.33,6.82,9.0,43.99,197,-62.18,-0.9
+83.0,2,eli-broad,Male,Finance,Eli Broad,United States,Self-made,Married,6.0,eli-broad,0.11,0.0,7.38,94.0,0.0,176,-26.56,-0.36
+78.0,0,thomas-frist,Male,Medical,Thomas Frist,United States,Self-made,Unknown,34.22,thomas-frist,-4.82,-0.06,7.85,0.0,65.78,160,853.44,12.2
+86.0,3,warren-buffett,Male,Finance,Warren Buffett,United States,Self-made,Married,1.4,warren-buffett,-221.26,-0.34,64.53,0.0,98.6,4,2236.01,3.59
+79.0,4,les-wexner,Male,Retail,Les Wexner,United States,Self-made,Married,59.22,les-wexner,-9.33,-0.12,7.64,0.0,40.78,168,-685.24,-8.23
+61.0,3,bill-gates,Male,Technology,Bill Gates,United States,Self-made,Married,53.5,bill-gates,-353.03,-0.4,88.89,0.56,45.94,1,5104.04,6.09
+60.0,3,steve-ballmer,Male,Technology,Steve Ballmer,United States,Self-made,Married,12.15,steve-ballmer,-92.68,-0.37,24.79,7.97,79.88,26,850.74,3.55
+67.0,5,bernard-arnault,Male,Retail,Bernard Arnault,France,Self-made,Married,2.94,bernard-arnault,681.97,1.97,35.33,0.3,96.76,16,3463.6,10.87
+76.0,6,carlos-slim,Male,Diversified,Carlos Slim,Mexico,Self-made,Widowed,5.89,carlos-slim,298.99,0.61,49.03,5.05,89.05,8,-3237.01,-6.19
+76.0,2,dietmar-hopp,Male,Technology,Dietmar Hopp,Germany,Self-made,Married,15.73,dietmar-hopp,37.28,0.55,6.81,15.79,68.48,199,983.91,16.88
+72.0,2,hasso-plattner,Male,Technology,Hasso Plattner,Germany,Self-made,Separated,24.67,hasso-plattner,76.98,0.68,11.43,3.8,71.52,95,878.16,8.32
+51.0,3,ernesto-bertarelli,Male,Diversified,Ernesto Bertarelli,Switzerland,Inherited,Married,78.65,ernesto-bertarelli,-74.76,-0.51,14.62,17.56,3.79,60,456.58,3.22
+91.0,4,serge-dassault,Male,Manufacturing,Serge Dassault,France,Inherited,Married,6.88,serge-dassault,24.09,0.15,16.53,5.5,87.63,48,661.36,4.17
+66.0,1,vagit-alekperov,Male,Energy,Vagit Alekperov,Russia,Self-made,Married,13.69,vagit-alekperov,0.1,0.0,10.5,5.56,80.75,111,3788.5,56.42
+83.0,5,luis-sarmiento,Male,Finance,Luis Sarmiento,Colombia,Self-made,Married,18.68,luis-sarmiento,-210.65,-1.8,11.5,11.29,70.03,94,1160.33,11.22
+73.0,0,david-geffen,Male,Media,David Geffen,United States,Self-made,Single,29.5,david-geffen,8.05,0.11,7.08,45.89,24.61,185,301.85,4.45
+68.0,0,carlos-sicupira,Male,Finance,Carlos Sicupira,Brazil,Self-made,Married,4.16,carlos-sicupira,10.76,0.09,12.67,0.0,95.84,77,1722.72,15.74
+66.0,2,lakshmi-mittal,Male,Metals & Mining,Lakshmi Mittal,India,Self-made,Married,25.79,lakshmi-mittal,-1.45,-0.01,13.17,7.9,66.3,73,3772.89,40.14
+85.0,6,rupert-murdoch,Male,Media,Rupert Murdoch,United States,Self-made,Married,17.97,rupert-murdoch,-41.47,-0.37,11.05,0.88,81.15,101,-204.85,-1.82
+89.0,0,si-newhouse,Male,Media,Si Newhouse,United States,Inherited,Married,11.91,si-newhouse,-33.02,-0.28,11.85,29.43,58.66,91,1130.71,10.55
+,3,donald-newhouse,Male,Media,Donald Newhouse,United States,Inherited,Widowed,13.08,donald-newhouse,-33.02,-0.3,10.85,22.46,64.45,105,1130.71,11.63
+73.0,3,jim-goodnight,Male,Technology,Jim Goodnight,United States,Self-made,Married,0.0,jim-goodnight,-7.62,-0.09,8.87,100.0,0.0,137,-1594.08,-15.23
+90.0,3,hans-rausing,Male,Diversified,Hans Rausing,Sweden,Inherited,Married,96.75,hans-rausing,-127.9,-1.15,11.01,3.25,0.0,103,-1102.12,-9.1
+71.0,1,takemitsu-takizaki,Male,Technology,Takemitsu Takizaki,Japan,Self-made,Married,0.0,takemitsu-takizaki,-111.25,-0.97,11.39,0.01,99.99,97,2767.3,32.11
+68.0,3,alain-wertheimer,Male,Retail,Alain Wertheimer,France,Inherited,Married,0.0,alain-wertheimer,95.37,0.98,9.85,100.0,0.0,118,-2019.12,-17.01
+,4,pallonji-mistry,Male,Manufacturing,Pallonji Mistry,India,Inherited,Married,8.71,pallonji-mistry,-52.59,-0.36,14.5,9.11,82.18,62,621.07,4.48
+63.0,0,paul-allen,Male,Technology,Paul Allen,United States,Self-made,Single,27.14,paul-allen,-78.61,-0.42,18.51,40.43,32.43,38,404.36,2.23
+85.0,7,alberto-bailleres,Male,Metals & Mining,Alberto Bailleres,Mexico,Self-made,Married,20.94,alberto-bailleres,-307.7,-2.43,12.33,15.5,63.57,81,3072.73,33.19
+69.0,2,steve-schwarzman,Male,Finance,Steve Schwarzman,United States,Self-made,Married,37.79,steve-schwarzman,-7.51,-0.08,9.82,1.64,60.56,120,-526.66,-5.09
+61.0,2,graeme-hart,Male,Manufacturing,Graeme Hart,New Zealand,Self-made,Married,0.0,graeme-hart,-9.59,-0.13,7.47,100.0,0.0,174,775.44,11.59
+72.0,1,richard-kinder,Male,Energy,Richard Kinder,United States,Self-made,Married,29.55,richard-kinder,-189.4,-2.44,7.58,0.0,70.45,170,2042.95,36.91
+73.0,7,ron-perelman,Male,Diversified,Ron Perelman,United States,Self-made,Married,12.53,ron-perelman,14.63,0.09,17.09,76.7,10.77,41,3339.37,24.28
+75.0,2,john-malone,Male,Media,John Malone,United States,Self-made,Married,24.43,john-malone,2.67,0.03,8.08,22.85,52.72,152,-441.22,-5.18
+88.0,2,li-ka-shing,Male,Real Estate,Li Ka-Shing,Hong Kong,Self-made,Widowed,13.54,li-ka-shing,-45.48,-0.14,31.74,0.61,85.85,20,1810.23,6.05
+88.0,5,lee-shau-kee,Male,Real Estate,Lee Shau Kee,Hong Kong,Self-made,Divorced,13.63,lee-shau-kee,173.92,0.86,20.42,3.27,83.1,33,2880.61,16.42
+78.0,2,phil-knight,Male,Apparel,Phil Knight,United States,Self-made,Married,27.44,phil-knight,-183.88,-0.78,23.29,0.0,72.56,30,-2077.97,-8.19
+,2,melker-schorling,Male,Diversified,Melker Schorling,Sweden,Self-made,Married,2.54,melker-schorling,-61.53,-0.86,7.13,0.0,97.46,183,593.13,9.07
+78.0,3,jim-simons,Male,Finance,Jim Simons,United States,Self-made,Married,0.0,jim-simons,0.0,0.0,15.5,100.0,0.0,53,0.0,0.0
+76.0,3,david-koch,Male,Diversified,David Koch,United States,Self-made,Married,2.06,david-koch,-194.48,-0.38,50.38,97.94,0.0,7,-1641.25,-3.16
+66.0,4,eyal-ofer,Male,Diversified,Eyal Ofer,Israel,Self-made,Married,0.0,eyal-ofer,-11.47,-0.14,8.06,81.5,18.5,153,7.97,0.1
+,0,klaus-michael-kuehne,Male,Diversified,Klaus-Michael Kuehne,Germany,Inherited,Married,21.74,klaus-michael-kuehne,127.76,1.03,12.48,0.21,78.05,79,1612.38,14.84
+71.0,2,richard-lefrak,Male,Real Estate,Richard LeFrak,United States,Inherited,Married,7.42,richard-lefrak,1.29,0.02,7.12,90.12,2.46,184,107.22,1.53
+67.0,2,micky-arison,Male,Service,Micky Arison,United States,Inherited,Married,47.81,micky-arison,-20.42,-0.23,8.7,13.66,38.53,141,-1206.33,-12.18
+73.0,3,george-kaiser,Male,Energy,George Kaiser,United States,Inherited,Married,4.53,george-kaiser,-12.4,-0.09,14.13,72.4,23.07,68,1713.85,13.81
+65.0,4,thomas-kwok,Male,Real Estate,Thomas Kwok,Hong Kong,Inherited,Married,26.04,thomas-kwok,-35.39,-0.33,10.78,0.0,73.96,107,1727.59,19.09
+,4,august-von-finck,Male,Diversified,August von Finck,Germany,Self-made,Married,53.69,august-von-finck,13.17,0.16,8.28,13.39,32.92,150,1066.66,14.78
+51.0,4,michael-dell,Male,Technology,Michael Dell,United States,Self-made,Married,35.17,michael-dell,7.24,0.04,18.63,61.62,3.2,37,799.92,4.49
+,0,jim-kennedy,Male,Media,Jim Kennedy,United States,Inherited,Married,0.0,jim-kennedy,-45.85,-0.54,8.42,100.0,0.0,148,727.14,9.45
+80.0,3,francois-pinault,Male,Retail,Francois Pinault,France,Self-made,Married,6.67,francois-pinault,208.4,1.49,14.16,33.31,60.02,66,1023.72,7.79
+76.0,3,phil-anschutz,Male,Telecommunications,Phil Anschutz,United States,Self-made,Married,40.84,phil-anschutz,-15.18,-0.14,10.63,46.47,12.68,109,233.96,2.25
+61.0,2,eric-schmidt,Male,Technology,Eric Schmidt,United States,Self-made,Married,30.63,eric-schmidt,11.78,0.11,10.74,1.48,67.89,108,295.1,2.82
+54.0,3,susanne-klatten,Female,Manufacturing,Susanne Klatten,Germany,Inherited,Married,15.8,susanne-klatten,310.25,1.63,19.39,21.87,62.33,35,-1305.3,-6.31
+59.0,2,masayoshi-son,Male,Telecommunications,Masayoshi Son,Japan,Self-made,Married,0.0,masayoshi-son,-33.39,-0.27,12.13,4.07,95.93,85,2012.6,19.89
+81.0,6,leonardo-del-vecchio,Male,Retail,Leonardo del Vecchio,Italy,Self-made,Married,3.48,leonardo-del-vecchio,-22.6,-0.14,16.0,0.0,96.52,49,-6021.83,-27.34
+69.0,3,stefan-persson,Male,Retail,Stefan Persson,Sweden,Inherited,Married,20.0,stefan-persson,285.59,1.21,23.95,3.34,76.66,27,-2216.26,-8.47
+81.0,4,reinhold-wuerth,Male,Manufacturing,Reinhold Wuerth,Germany,Self-made,Married,0.0,reinhold-wuerth,-4.18,-0.05,8.6,100.0,0.0,142,243.26,2.91
+69.0,2,stan-kroenke,Male,Real Estate,Stan Kroenke,United States,Self-made,Married,0.0,stan-kroenke,-8.98,-0.13,7.05,88.99,11.01,186,852.41,13.75
+72.0,3,rob-walton,Male,Retail,Rob Walton,United States,Inherited,Married,17.57,rob-walton,-83.89,-0.24,35.34,1.64,80.79,15,5309.47,17.68
+76.0,2,galen-weston,Male,Retail,Galen Weston,Canada,Inherited,Married,7.15,galen-weston,-130.2,-1.51,8.47,5.43,87.43,146,122.73,1.47
+64.0,0,paolo-rocca,Male,Metals & Mining,Paolo Rocca,Italy,Inherited,,11.93,paolo-rocca,23.08,0.3,7.76,18.39,69.68,166,674.1,9.51
+72.0,2,larry-ellison,Male,Technology,Larry Ellison,United States,Self-made,Divorced,16.75,larry-ellison,-168.51,-0.4,42.39,0.0,83.25,10,2654.52,6.68
+86.0,5,george-soros,Male,Finance,George Soros,United States,Self-made,Married,0.0,george-soros,0.0,0.0,25.22,100.0,0.0,25,843.0,3.46
+49.0,1,sergey-galitskiy,Male,Retail,Sergey Galitskiy,Russia,Self-made,Married,23.44,sergey-galitskiy,-64.06,-0.87,7.28,1.37,75.19,180,-1756.56,-19.43
+83.0,2,leonard-lauder,Male,Manufacturing,LeonardLauder,United States,Inherited,Married,29.4,leonard-lauder,-62.68,-0.56,11.14,0.0,70.6,99,178.0,1.62
+32.0,1,mark-zuckerberg,Male,Technology,Mark Zuckerberg,United States,Self-made,Married,3.75,mark-zuckerberg,-262.49,-0.47,56.01,0.33,95.92,5,10238.7,22.37
+94.0,1,liliane-bettencourt,Female,Retail,Liliane Bettencourt,France,Inherited,Widowed,6.56,liliane-bettencourt,396.43,1.06,37.88,0.0,93.44,13,4765.62,14.39
+72.0,2,john-fredriksen,Male,Diversified,John Fredriksen,Cyprus,Self-made,Widowed,53.5,john-fredriksen,71.74,0.7,10.31,7.56,38.95,115,-834.86,-7.49
+50.0,1,stefan-quandt,Male,Manufacturing,Stefan Quandt,Germany,Inherited,Married,10.59,stefan-quandt,443.74,2.69,16.97,6.15,83.26,45,-2209.91,-11.52
+63.0,5,charlie-ergen,Male,Media,Charlie Ergen,United States,Self-made,Married,6.61,charlie-ergen,61.91,0.37,16.8,0.0,93.39,46,-60.5,-0.36
+,8,eka-widjaja,Male,Diversified,Eka Widjaja,Indonesia,Self-made,Married,4.79,eka-widjaja,-10.62,-0.15,6.85,40.49,54.73,194,1888.12,38.08
+,0,yang-huiyan,Female,Real Estate,Yang Huiyan,China,Inherited,Married,4.38,yang-huiyan,201.91,3.06,6.8,0.0,95.62,200,2084.62,44.19
+,0,aloys-wobben,Male,Energy,Aloys Wobben,Germany,Self-made,Unknown,0.0,aloys-wobben,46.05,0.67,6.94,100.0,0.0,190,228.14,3.4
+63.0,3,raymond-kwok,Male,Real Estate,Raymond Kwok,Hong Kong,Inherited,Married,25.79,raymond-kwok,-9.91,-0.09,10.81,0.0,74.21,106,1782.83,19.76
+66.0,2,marcel-telles,Male,Finance,Marcel Telles,Brazil,Self-made,Married,3.02,marcel-telles,-2.55,-0.02,14.82,0.0,96.98,57,1855.07,14.31
+77.0,6,jorge-paulo-lemann,Male,Finance,Jorge Paulo Lemann,Brazil,Self-made,Married,2.91,jorge-paulo-lemann,16.94,0.05,31.23,0.0,97.09,23,3566.25,12.89
+92.0,6,henry-sy-sr,Male,Diversified,Henry Sy Sr,Philippines,Self-made,Married,9.64,henry-sy-sr,108.23,0.74,14.81,2.45,87.91,58,2331.38,18.69
+59.0,3,aliko-dangote,Male,Diversified,Aliko Dangote,Nigeria,Self-made,Married,14.06,aliko-dangote,347.26,3.24,11.06,1.44,84.49,100,-4215.67,-27.6
+64.0,0,kirsten-rausing,Female,Manufacturing,Kirsten Rausing,Sweden,Inherited,Single,5.27,kirsten-rausing,-108.8,-1.57,6.83,94.73,0.0,195,1439.62,26.71
+79.0,3,charles-gerald-john-cadogan,Male,Real Estate,Charles Gerald John Cadogan,United Kingdom,Inherited,Married,7.61,charles-gerald-john-cadogan,0.0,0.0,7.48,92.39,0.0,172,45.0,0.61
+67.0,0,alice-walton,Female,Retail,Alice Walton,United States,Inherited,Divorced,15.6,alice-walton,-87.06,-0.25,34.33,0.0,84.4,18,4784.19,16.19
+80.0,2,carl-icahn,Male,Finance,Carl Icahn,United States,Self-made,Married,12.42,carl-icahn,-17.79,-0.09,19.27,55.68,31.9,36,-645.9,-3.24
+93.0,8,robert-kuok,Male,Diversified,Robert Kuok,Malaysia,Self-made,Married,8.27,robert-kuok,12.91,0.1,13.37,24.4,67.33,70,317.62,2.43
+70.0,3,peter-woo,Male,Real Estate,Peter Woo,Hong Kong,Inherited,Married,15.72,peter-woo,153.86,1.6,9.79,0.0,84.28,121,2427.8,32.97
+,0,walter-kwok,Male,Real Estate,Walter Kwok,Hong Kong,Inherited,Married,27.13,walter-kwok,-30.24,-0.31,9.61,0.0,72.87,124,1365.29,16.57
+68.0,3,kjeld-kristiansen,Male,Manufacturing,Kjeld Kristiansen,Denmark,Inherited,Married,9.42,kjeld-kristiansen,-58.59,-0.51,11.39,72.77,17.81,96,2984.01,35.48
+,2,blair-parry-okeden,Female,Media,Blair Parry-Okeden,United States,Inherited,Divorced,0.0,blair-parry-okeden,-45.85,-0.54,8.42,100.0,0.0,147,727.14,9.45
+,3,joseph-tsai,Male,Technology,Joseph Tsai,Canada,Self-made,Married,4.61,joseph-tsai,-0.16,0.0,6.85,0.0,95.39,193,1538.11,28.97
+,3,iris-fontbona,Female,Metals & Mining,Iris Fontbona,Chile,Inherited,Widowed,30.14,iris-fontbona,-87.32,-0.78,11.05,0.0,69.86,102,719.05,6.96
+76.0,2,gianluigi-aponte,Male,Service,Gianluigi Aponte,Switzerland,Self-made,Married,0.0,gianluigi-aponte,8.9,0.12,7.18,100.0,0.0,182,-1902.23,-20.94
+,1,cyrus-poonawalla,Male,Medical,Cyrus Poonawalla,India,Self-made,Widowed,0.0,cyrus-poonawalla,12.0,0.14,8.86,99.97,0.03,138,-1224.08,-12.13
+77.0,0,michael-hartono,Male,Manufacturing,Michael Hartono,Indonesia,Inherited,,4.19,michael-hartono,60.31,0.68,8.92,29.95,65.86,136,2040.35,29.65
+64.0,3,gennady-timchenko,Male,Diversified,Gennady Timchenko,Russia,Self-made,Married,39.57,gennady-timchenko,-99.91,-1.09,9.05,22.31,38.12,132,2480.59,37.76
+32.0,0,dustin-moskovitz,Male,Technology,Dustin Moskovitz,United States,Self-made,Married,0.64,dustin-moskovitz,-58.58,-0.47,12.47,1.28,98.08,80,2235.37,21.84
+,0,pam-mars-wright,Female,Food & Beverage,Pam Mars-Wright,United States,Inherited,Married,0.0,pam-mars-wright,-30.79,-0.39,7.8,100.0,0.0,163,7802.14,0.0
+52.0,4,jeff-bezos,Male,Technology,Jeff Bezos,United States,Self-made,Married,5.89,jeff-bezos,-214.33,-0.3,72.18,1.21,92.89,3,12501.48,20.95
+55.0,5,vladimir-potanin,Male,Metals & Mining,Vladimir Potanin,Russia,Self-made,Married,47.68,vladimir-potanin,-67.26,-0.42,15.89,7.38,44.94,50,1208.55,8.23
+,0,hui-ka-yan,Male,Real Estate,Hui Ka Yan,China,Self-made,Married,12.2,hui-ka-yan,562.28,7.09,8.49,1.49,86.31,145,-1202.24,-12.4
+68.0,4,jim-walton,Male,Retail,Jim Walton,United States,Inherited,Married,16.47,jim-walton,-76.62,-0.22,35.19,2.83,80.7,17,4766.47,15.67
+81.0,3,john-mars,Male,Food & Beverage,John Mars,United States,Inherited,Married,0.0,john-mars,-123.52,-0.39,31.3,100.0,0.0,22,-1022.32,-3.16
+77.0,3,jacqueline-mars,Female,Food & Beverage,Jacqueline Mars,United States,Inherited,Divorced,0.0,jacqueline-mars,-123.52,-0.39,31.3,100.0,0.0,21,-1022.32,-3.16
+81.0,2,charles-koch,Male,Diversified,Charles Koch,United States,Self-made,Married,2.06,charles-koch,-194.48,-0.38,50.38,97.94,0.0,6,-1641.25,-3.16
+62.0,1,wang-jianlin,Male,Real Estate,Wang Jianlin,China,Self-made,Married,0.42,wang-jianlin,-456.97,-1.41,31.89,72.97,26.61,19,-4571.74,-12.54
+34.0,0,eduardo-saverin,Male,Technology,Eduardo Saverin,Brazil,Self-made,Married,5.87,eduardo-saverin,-32.41,-0.46,6.95,0.0,94.13,189,1228.93,21.47
+,2,dilip-shanghvi,Male,Medical,Dilip Shanghvi,India,Self-made,Married,0.0,dilip-shanghvi,106.41,0.68,15.75,0.0,100.0,51,-671.44,-4.09
+60.0,2,john-paulson,Male,Finance,John Paulson,United States,Self-made,Married,0.0,john-paulson,-4.72,-0.06,8.06,100.0,0.0,154,-101.56,-1.24
+82.0,0,giorgio-armani,Male,Retail,Giorgio Armani,Italy,Self-made,Single,5.6,giorgio-armani,29.77,0.43,6.96,77.81,16.59,188,6.94,0.1
+51.0,0,mikhail-prokhorov,Male,Diversified,Mikhail Prokhorov,Russia,Self-made,Single,55.36,mikhail-prokhorov,35.21,0.34,10.33,31.27,13.37,114,384.57,3.87
+62.0,5,charlene-de-carvalho-heineken,Female,Food & Beverage,Charlene de Carvalho-Heineken,Netherlands,Inherited,Married,16.76,charlene-de-carvalho-heineken,54.45,0.42,12.87,0.0,83.24,75,1372.83,11.94
+72.0,5,charoen-sirivadhanabhakdi,Male,Food & Beverage,Charoen Sirivadhanabhakdi,Thailand,Self-made,Married,51.73,charoen-sirivadhanabhakdi,205.32,1.49,14.03,16.17,32.09,69,4981.52,55.08
+75.0,2,stefano-pessina,Male,Medical,Stefano Pessina,Monaco,Self-made,Separated,12.89,stefano-pessina,-19.74,-0.15,13.22,0.0,87.11,72,-446.96,-3.27
+,1,theo-albrecht-jr,Male,Retail,Theo Albrecht Jr,Germany,Inherited,Married,0.0,theo-albrecht-jr,-2.97,-0.04,7.53,100.0,0.0,171,363.9,5.07
+60.0,3,vladimir-lisin,Male,Metals & Mining,Vladimir Lisin,Russia,Self-made,Married,34.81,vladimir-lisin,-76.64,-0.73,10.42,18.42,46.77,113,2863.77,37.88
+74.0,3,lee-kun-hee,Male,Technology,Lee Kun Hee,South Korea,Inherited,Married,5.35,lee-kun-hee,-80.63,-0.56,14.23,0.09,94.56,65,2570.85,22.04
+59.0,3,david-tepper,Male,Finance,David Tepper,United States,Self-made,Married,28.5,david-tepper,-11.04,-0.11,10.49,71.5,0.0,112,-225.84,-2.11
+53.0,3,laurene-powell-jobs,Female,Media,Laurene Powell Jobs,United States,Inherited,Widowed,4.74,laurene-powell-jobs,24.17,0.14,17.08,0.0,95.26,42,-1342.07,-7.28
+53.0,2,suh-kyung-bae,Male,Manufacturing,Suh Kyung-Bae,South Korea,Inherited,Married,1.27,suh-kyung-bae,10.01,0.11,9.06,0.0,98.73,131,1137.72,14.37
+48.0,3,sandra-ortega-mera,Female,Retail,Sandra Ortega Mera,Spain,Inherited,Married,23.02,sandra-ortega-mera,22.92,0.3,7.58,1.26,75.72,169,716.74,10.44
+30.0,0,lukas-walton,Male,Food & Beverage,Lukas Walton,United States,Inherited,Unknown,13.99,lukas-walton,-32.02,-0.26,12.27,4.19,81.82,83,1153.64,10.37
+,0,yan-bin,Male,Food & Beverage,Yan Bin,Thailand,Self-made,,0.0,yan-bin,-128.95,-1.48,8.6,100.0,0.0,143,228.45,2.73
+63.0,0,alisher-usmanov,Male,Diversified,Alisher Usmanov,Russia,Self-made,Married,52.57,alisher-usmanov,-35.85,-0.3,11.96,19.96,27.47,90,-32.48,-0.27
+,0,marijke-mars,Female,Food & Beverage,Marijke Mars,United States,Inherited,Married,0.0,marijke-mars,-30.79,-0.39,7.8,100.0,0.0,162,7802.14,0.0
+,4,victoria-mars,Female,Food & Beverage,Victoria Mars,United States,Inherited,Married,0.0,victoria-mars,-30.79,-0.39,7.8,100.0,0.0,161,7802.14,0.0
+,2,sara-mota-de-larrea,Female,Metals & Mining,Sara Mota de Larrea,Mexico,Inherited,Widowed,33.65,sara-mota-de-larrea,82.18,0.89,9.33,0.0,66.35,128,1292.43,16.08
+77.0,2,dieter-schwarz,Male,Retail,Dieter Schwarz,Germany,Self-made,Married,0.0,dieter-schwarz,83.53,0.39,21.77,100.0,0.0,32,3582.74,19.7
+,2,elaine-marshall,Female,Diversified,Elaine Marshall,United States,Inherited,Widowed,1.18,elaine-marshall,-67.61,-0.39,17.08,98.82,0.0,43,-998.78,-5.52
+,3,william-ding,Male,Technology,William Ding,China,Self-made,Married,1.56,william-ding,210.83,1.46,14.7,0.0,98.44,59,3991.31,37.28
+59.0,3,mukesh-ambani,Male,Energy,Mukesh Ambani,India,Inherited,Married,6.93,mukesh-ambani,45.48,0.19,23.54,1.89,91.18,28,1915.8,8.86
+,3,jeff-hildebrand,Male,Energy,Jeff Hildebrand,United States,Self-made,Married,11.38,jeff-hildebrand,-113.77,-1.64,6.82,88.62,0.0,198,1568.54,29.87
+,0,jan-koum,Male,Technology,Jan Koum,United States,Self-made,Married,58.13,jan-koum,-43.84,-0.48,9.09,0.0,41.87,130,339.65,3.88
+89.0,1,goh-cheng-liang,Male,Manufacturing,Goh Cheng Liang,Singapore,Self-made,Married,2.27,goh-cheng-liang,63.11,0.79,8.02,44.02,53.72,156,1744.32,27.8
+67.0,4,ray-dalio,Male,Finance,Ray Dalio,United States,Self-made,Married,1.24,ray-dalio,0.0,0.0,14.13,98.76,0.0,67,0.0,0.0
+55.0,4,german-khan,Male,Diversified,German Khan,Russia,Self-made,Married,52.8,german-khan,1.41,0.02,8.96,27.16,20.04,134,742.39,9.03
+64.0,2,patrick-soon-shiong,Male,Medical,Patrick Soon-Shiong,United States,Self-made,Married,63.52,patrick-soon-shiong,-28.31,-0.31,8.98,1.46,35.02,133,-1261.21,-12.31
+,8,mohammed-al-amoudi,Male,Energy,Mohammed Al-Amoudi,Saudi Arabia,Self-made,Married,3.91,mohammed-al-amoudi,-28.47,-0.29,9.86,95.82,0.27,117,1185.16,13.67
+,0,sherry-brydson,Female,Telecommunications,Sherry Brydson,Canada,Inherited,Unknown,32.42,sherry-brydson,-73.58,-1.06,6.89,3.56,64.02,191,528.04,8.3
+,6,john-menard-jr,Male,Retail,John Menard Jr,United States,Self-made,Divorced,0.0,john-menard-jr,36.51,0.31,11.78,100.0,0.0,92,-1012.26,-7.91
+52.0,4,mikhail-fridman,Male,Diversified,Mikhail Fridman,Russia,Self-made,Married,50.62,mikhail-fridman,2.46,0.02,12.92,28.81,20.57,74,824.77,6.82
+53.0,4,patrick-drahi,Male,Telecommunications,Patrick Drahi,France,Self-made,Married,2.8,patrick-drahi,205.01,2.2,9.52,0.0,97.2,127,1955.21,25.84
+,5,lui-che-woo,Male,Service,Lui Che Woo,Hong Kong,Self-made,Married,8.71,lui-che-woo,55.97,0.67,8.37,17.83,73.46,149,1430.85,20.62
+57.0,2,valerie-mars,Female,Food & Beverage,Valerie Mars,United States,Inherited,Married,0.0,valerie-mars,-30.79,-0.39,7.8,100.0,0.0,164,7802.14,0.0
+,0,carl-cook,Male,Medical,Carl Cook,United States,Inherited,Unknown,0.0,carl-cook,-41.3,-0.43,9.66,100.0,0.0,123,1654.44,20.66
+,5,tan-siok-tjien,Female,Manufacturing,Tan Siok Tjien,Indonesia,Inherited,Widowed,16.33,tan-siok-tjien,169.27,1.93,8.94,0.0,83.67,135,2147.77,31.61
+,3,budi-hartono,Male,Manufacturing,Budi Hartono,Indonesia,Inherited,Married,4.31,budi-hartono,58.81,0.64,9.23,29.1,66.59,129,2118.73,29.8
+,6,beate-heister,Female,Retail,Beate Heister,Germany,Inherited,Married,0.0,beate-heister,46.59,0.39,12.0,100.0,0.0,89,2093.17,21.14
+,0,karl-albrecht-jr,Male,Retail,Karl Albrecht Jr,Germany,Inherited,Married,0.0,karl-albrecht-jr,46.59,0.39,12.0,100.0,0.0,88,2093.17,21.14
+,2,heinrich-deichmann,Male,Retail,Heinrich Deichmann,Germany,Inherited,Married,0.0,heinrich-deichmann,91.9,1.36,6.86,100.0,0.0,192,1876.96,37.66
+49.0,0,pierre-omidyar,Male,Technology,Pierre Omidyar,United States,Self-made,Married,22.49,pierre-omidyar,7.25,0.1,7.24,5.08,72.43,181,-98.72,-1.35
+83.0,5,sheldon-adelson,Male,Service,Sheldon Adelson,United States,Self-made,Married,15.27,sheldon-adelson,-8.64,-0.03,30.05,0.46,84.27,24,7068.94,30.75
+43.0,1,larry-page,Male,Technology,Larry Page,United States,Self-made,Married,20.92,larry-page,230.05,0.57,40.49,0.0,79.08,11,569.2,1.43
+,3,yeung-kin-man,Male,Technology,Yeung Kin-Man,Hong Kong,Self-made,Married,0.0,yeung-kin-man,-25.49,-0.23,10.89,100.0,0.0,104,1037.12,10.52
+45.0,5,elon-r-musk,Male,Technology,Elon R Musk,United States,Self-made,Married,0.0,elon-r-musk,-47.99,-0.55,8.71,45.37,54.63,140,-517.7,-5.61
+90.0,4,ingvar-kamprad,Male,Retail,Ingvar Kamprad,Sweden,Self-made,Widowed,0.12,ingvar-kamprad,158.02,0.37,43.09,99.69,0.19,9,3198.93,8.02
+,0,hugh-grosvenor,Male,Real Estate,Hugh Grosvenor,United Kingdom,Inherited,Single,2.38,hugh-grosvenor,0.0,0.0,12.29,97.62,0.0,82,0.0,0.0
+76.0,4,stephen-ross,Male,Real Estate,Stephen Ross,United States,Self-made,Married,0.0,stephen-ross,0.0,0.0,8.83,100.0,0.0,139,2810.0,46.72
+71.0,2,azim-premji,Male,Technology,Azim Premji,India,Self-made,Married,0.0,azim-premji,35.38,0.28,12.8,22.87,77.13,76,-2054.61,-13.83
+71.0,1,shiv-nadar,Male,Technology,Shiv Nadar,India,Self-made,Married,8.33,shiv-nadar,92.14,0.77,12.13,4.4,87.27,86,8.56,0.07
+51.0,6,alexey-mordashov,Male,Metals & Mining,Alexey Mordashov,Russia,Self-made,Married,18.95,alexey-mordashov,178.61,1.21,14.96,7.96,73.09,56,2680.91,21.84
+57.0,2,uday-kotak,Male,Finance,Uday Kotak,India,Self-made,Married,6.65,uday-kotak,11.59,0.15,7.85,0.42,92.93,159,677.42,9.44
+39.0,0,alejandro-santo-domingo,Male,Food & Beverage,Alejandro Santo Domingo,Colombia,Inherited,Single,20.84,alejandro-santo-domingo,-111.94,-0.71,15.7,3.26,75.9,52,-223.22,-1.4
+72.0,3,thomas-peterffy,Male,Finance,Thomas Peterffy,United States,Self-made,Divorced,25.24,thomas-peterffy,219.05,1.54,14.46,0.34,74.42,63,-3806.44,-20.84
+59.0,2,viktor-vekselberg,Male,Diversified,Viktor Vekselberg,Russia,Self-made,Married,53.89,viktor-vekselberg,55.72,0.38,14.56,21.56,24.55,61,1893.54,14.95
+51.0,2,ludwig-merckle,Male,Manufacturing,Ludwig Merckle,Germany,Inherited,Married,1.9,ludwig-merckle,4.21,0.05,7.86,41.49,56.6,158,470.02,6.36
+70.0,5,harold-hamm,Male,Energy,Harold Hamm,United States,Self-made,Divorced,2.1,harold-hamm,-305.1,-1.98,15.14,0.93,96.97,54,8226.62,118.97
+60.0,7,steve-cohen,Male,Finance,Steve Cohen,United States,Self-made,Married,4.48,steve-cohen,0.0,0.0,11.17,95.52,0.0,98,-816.0,-6.81
+43.0,2,sergey-brin,Male,Technology,Sergey Brin,United States,Self-made,Divorced,21.61,sergey-brin,122.87,0.31,39.49,0.0,78.39,12,321.0,0.82
+,0,finn-rausing,Male,Manufacturing,Finn Rausing,Sweden,Inherited,,5.27,finn-rausing,-108.8,-1.57,6.83,94.73,0.0,196,1439.62,26.71
+51.0,2,hiroshi-mikitani,Male,Technology,Hiroshi Mikitani,Japan,Self-made,Married,8.39,hiroshi-mikitani,-113.8,-1.5,7.47,0.4,91.22,175,791.85,11.86
+67.0,2,tadashi-yanai,Male,Retail,Tadashi Yanai,Japan,Self-made,Married,5.86,tadashi-yanai,30.01,0.18,17.07,0.83,93.31,44,-1136.62,-6.24
+59.0,0,len-blavatnik,Male,Diversified,Len Blavatnik,United States,Self-made,Married,15.57,len-blavatnik,-72.05,-0.39,18.17,50.24,34.18,40,1001.13,5.83
+50.0,7,roman-abramovich,Male,Diversified,Roman Abramovich,Russia,Self-made,Married,49.6,roman-abramovich,-70.84,-0.67,10.55,35.48,14.92,110,-807.74,-7.11
+52.0,1,jack-ma,Male,Technology,Jack Ma,China,Self-made,Married,3.29,jack-ma,-3.58,-0.01,36.15,51.82,44.89,14,6438.48,21.67
+78.0,4,joseph-safra,Male,Finance,Joseph Safra,Brazil,Self-made,Married,7.07,joseph-safra,48.17,0.34,14.24,92.93,0.0,64,-373.39,-2.55
+80.0,3,amancio-ortega,Male,Retail,Amancio Ortega,Spain,Self-made,Married,0.0,amancio-ortega,164.09,0.21,78.54,13.14,86.86,2,5657.81,7.76
+52.0,4,petr-kellner,Male,Finance,Petr Kellner,Czech Republic,Self-made,Married,0.0,petr-kellner,125.35,1.08,11.74,74.32,25.68,93,-271.61,-2.26
+44.0,1,andrey-melnichenko,Male,Diversified,Andrey Melnichenko,Russia,Self-made,Married,9.41,andrey-melnichenko,-37.16,-0.36,10.3,89.82,0.77,116,4190.45,68.61
+72.0,1,dietrich-mateschitz,Male,Food & Beverage,Dietrich Mateschitz,Austria,Self-made,Single,0.22,dietrich-mateschitz,-166.56,-1.31,12.59,99.78,0.0,78,1110.38,9.68
+62.0,4,gina-rinehart,Female,Metals & Mining,Gina Rinehart,Australia,Inherited,Widowed,1.61,gina-rinehart,-64.5,-0.53,12.11,98.19,0.21,87,2420.02,24.98
+63.0,4,andy-beal,Male,Finance,Andy Beal,United States,Self-made,Divorced,65.88,andy-beal,0.0,0.0,8.04,34.12,0.0,155,-775.7,-8.8
+,3,he-xiangjian,Male,Manufacturing,He Xiangjian,China,Self-made,Married,23.27,he-xiangjian,-14.96,-0.17,8.58,1.23,75.5,144,172.37,2.05
+83.0,2,harry-triguboff,Male,Real Estate,Harry Triguboff,Australia,Self-made,Married,0.0,harry-triguboff,71.62,0.94,7.73,100.0,0.0,167,709.25,10.1
+65.0,2,gerard-wertheimer,Male,Retail,Gerard Wertheimer,France,Inherited,Married,0.0,gerard-wertheimer,91.13,0.93,9.85,100.0,0.0,119,-2023.36,-17.04
+75.0,2,heinz-hermann-thiele,Male,Manufacturing,Heinz Hermann Thiele,Germany,Self-made,Married,4.92,heinz-hermann-thiele,11.47,0.09,12.25,91.36,3.72,84,2287.17,22.97
+,0,jorn-rausing,Male,Manufacturing,Jorn Rausing,Sweden,Inherited,,4.39,jorn-rausing,-109.58,-1.54,7.01,92.14,3.47,187,1361.31,24.1
+,0,giovanni-ferrero,Male,Food & Beverage,Giovanni Ferrero,Italy,Inherited,Unknown,0.0,giovanni-ferrero,68.73,0.31,21.95,100.0,0.0,31,-429.57,-1.92
+,1,yongxing-liu,Male,Diversified,Yongxing Liu,China,Self-made,Married,0.0,yongxing-liu,-45.74,-0.47,9.7,100.0,0.0,122,-682.98,-6.58
+57.0,3,mohamed-al-jaber,Male,Service,Mohamed Al Jaber,Saudi Arabia,Self-made,Married,33.79,mohamed-al-jaber,4.15,0.05,8.27,66.21,0.0,151,-24.92,-0.3
+52.0,4,georg-schaeffler,Male,Manufacturing,Georg Schaeffler,Germany,Inherited,Divorced,0.0,georg-schaeffler,118.45,0.61,19.63,0.0,100.0,34,-2906.19,-12.9
+49.0,3,xavier-niel,Male,Technology,Xavier Niel,France,Self-made,Single,4.83,xavier-niel,39.45,0.54,7.3,33.28,61.89,179,-842.43,-10.34
+61.0,2,leonid-mikhelson,Male,Energy,Leonid Mikhelson,Russia,Self-made,Married,17.18,leonid-mikhelson,-70.62,-0.47,15.05,32.03,50.79,55,2070.08,15.94
+45.0,1,pony-ma,Male,Technology,Pony Ma,China,Self-made,Married,13.07,pony-ma,54.85,0.23,23.45,0.7,86.23,29,4214.96,21.91
+,0,zhang-zhidong,Male,Technology,Zhang Zhidong,China,Self-made,Married,4.83,zhang-zhidong,24.44,0.26,9.53,0.0,95.17,126,2739.5,40.32
+87.0,2,gordon-moore,Male,Technology,Gordon Moore,United States,Self-made,Married,19.08,gordon-moore,-29.52,-0.39,7.47,0.0,80.92,173,732.14,10.86
+49.0,2,dmitry-rybolovlev,Male,Manufacturing,Dmitry Rybolovlev,Russia,Self-made,Divorced,64.54,dmitry-rybolovlev,2.78,0.03,9.54,35.19,0.28,125,292.33,3.16
+,0,lei-jun,Male,Technology,Lei Jun,China,Self-made,Married,0.67,lei-jun,26.45,0.34,7.77,88.27,11.06,165,-2211.98,-22.15
+71.0,1,zong-qinghou,Male,Food & Beverage,Zong Qinghou,China,Self-made,Married,0.0,zong-qinghou,-81.8,-1.11,7.32,100.0,0.0,178,-2034.98,-21.75
+47.0,4,robin-li,Male,Technology,Robin Li,China,Self-made,Married,0.62,robin-li,59.83,0.45,13.36,0.0,99.38,71,-336.02,-2.45
+69.0,3,johann-graf,Male,Service,Johann Graf,Austria,Self-made,Divorced,4.08,johann-graf,0.0,0.0,7.38,95.92,0.0,177,-414.0,-5.32
